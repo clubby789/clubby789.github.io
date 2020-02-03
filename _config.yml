@@ -27,6 +27,8 @@ url: "http://clubby789.github.io" # the base hostname & protocol for your site, 
 twitter_username: JamieHDaniel
 github_username:  clubby789
 
+# permalink: /:category/:title/
+
 # Build settings
 theme: jekyll-theme-hacker
 plugins:
