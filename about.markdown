@@ -1,18 +1,17 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Who am I?
+A teenager from the UK who's very interested in computing, cybersecurity and CTFs.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## What is this site?
+A blog where I'll be posting projects I'm working on, HackTheBox writeups, and anything else I find interesting.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Profiles:
+[Twitter](https://twitter.com/JamieHDaniel)
 
+[HackTheBox](https://www.hackthebox.eu/home/users/profile/83743)
 
-[jekyll-organization]: https://github.com/jekyll
+[GitHub](https://github.com/clubby789) <- You are here!
+<script src="https://www.hackthebox.eu/badge/83743"></script>
