@@ -20,7 +20,7 @@ A teenager from the UK who's very interested in computing, cybersecurity and CTF
 A blog where I'll be posting projects I'm working on, HackTheBox writeups, and anything else I find interesting.
 
 ### Profiles:
-[Twitter](https://twitter.com/JamieHDaniel)
+[Twitter](https://twitter.com/clubby789)
 
 [GitHub](https://github.com/clubby789) <- You are here!
 
