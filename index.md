@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Recent posts feed
 <ul>
   {% for post in site.posts %}
