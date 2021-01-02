@@ -1,16 +1,16 @@
-title: clubby789's CyberSec Blog
+title: clubby789's Blog
 email: clubby789@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'll be using this blog to post Hackthebox writeups, among other projects that I'm working on
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://clubby789.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://clubby789.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JamieHDaniel
 github_username:  clubby789
 
 excerpt_separator: <!--more-->
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 site_favicon: favicon.ico

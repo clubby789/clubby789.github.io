@@ -7,8 +7,9 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li>
+      <hr>
       <a href="{{ post.url }}">{{ post.title }}</a>
-	<span><p>{{ post.excerpt }}</p> <img src="/assets/{{post.image}}" alt="Writeup" style="width:200px;"> </span>
+	<span><p>{{ post.excerpt }}</p> {% if post.image %}<img src="/assets/{{post.image}}" alt="Writeup" style="width:200px;">{% endif %} </span>
     </li>
   {% endfor %}
 </ul>
@@ -22,7 +23,7 @@ A blog where I'll be posting projects I'm working on, HackTheBox writeups, and a
 ### Profiles:
 [Twitter](https://twitter.com/clubby789)
 
-[GitHub](https://github.com/clubby789) <- You are here!
+[GitHub](https://github.com/clubby789)
 
 [![clubby789](https://www.hackthebox.eu/badge/image/83743)](https://www.hackthebox.eu/home/users/profile/83743)
 
