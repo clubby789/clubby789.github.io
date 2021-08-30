@@ -4,9 +4,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'll be using this blog to post Hackthebox writeups, among other projects that I'm working on
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://clubby789.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: JamieHDaniel
+twitter_username: clubby789
 github_username:  clubby789
-
+repository: clubby789/clubby789.github.io
 excerpt_separator: <!--more-->
 
 # Build settings
