@@ -29,7 +29,7 @@ For a while I got stuck in a rabbit hole of trying to exploit bugs in the PE wal
 ## Physical Memory R/W
 Following the Xrefs to this string back up, I found that while initializing the driver, `WdfIoQueueCreate` is called, creating a queue which dispatches IOCTL (or `IoDeviceControl`) events. The registered function accepts two opcodes (`0x220004` and `0x220008`), which both follow similar codepaths with small differences.
 
-Both read a structure provided by the user of this form
+Both copy a structure provided by the user:
 ```c
 struct req {
   void* len;					// must be <= 0x1000
